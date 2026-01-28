@@ -97,5 +97,6 @@ The transition is seamless — the user does not repeat themselves.
 ## 👤 About the author
 
 Created by **Diego Isla** — Senior Backend Engineer · AI Enthusiast.
+
 If you’re a recruiter or hiring manager, this repository is meant to be **read, not just run**.
 Feel free to explore the codebase and reach out — feedback is always welcome.
